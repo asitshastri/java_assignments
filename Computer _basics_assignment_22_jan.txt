@@ -1,0 +1,25 @@
+Assignment: Computer Basics Assignment
+
+What is a computer?
+A computer is a electronic device that stores and processes the data, often in binary form, in accorddance with commands from a variable programme.
+
+What is RAM?
+RAM stands for  Random Access Memory. It is a primary memory that a processor can accesss directly through a data bus.
+
+Where is data stored in a computer?
+Data is stored inside Hard disk/ SSD
+
+What is that input device used to type text and numbers on a document in the computer system?
+Keyboard
+
+What are the output devices?
+Output devices displays the output we get back from the command we gave the computer through the input device.
+
+Which is the input device that allows a user to move the cursor or pointer on the screen?
+Mouse.
+
+Which language is directly understood by the computer without a translation program?
+Machine language.
+
+What are Input Devices?
+Computer can receive commands in the form of numbers, alphabets, graphics etc. through input devices like keyboard, joysticks etc.
