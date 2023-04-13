@@ -1,0 +1,29 @@
+Q- What is Git?
+Git i a Version Control System designed for tracking code change, tracking who made the changes and coding collaboration.
+
+Q- What do you understand by the term "Version Control System"?
+It is a system that records changes to a file or a set of files overtime, so that we can recall specific versions later.
+
+Q- What is GitHub?
+GitHub is Git Server software tool.It is a repository and used to store/maintain source code.
+
+Q- Mention some popular Git hosting services.
+GitHub, Gitlab, Bitbucket...
+
+Q- Different type of Version Control Systems?
+there are two types of VCS:-
+	Centeralised Version Control System
+	Distributed Version Control System
+
+Q- What benifits comes using GIT?
+	Tracking code changes
+	tracking who made the changes
+	coding collaboration
+
+Q- What is Git repository?
+Repositories in GIT contain a collection of files of various different versions of a Project. 
+
+Q- How can you initialize a repository in Git?
+To create a new repo, you'll use the git init command. git init is a one-time command you use during the initial setup of a new repo
+
+	
