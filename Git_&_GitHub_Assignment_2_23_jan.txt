@@ -1,0 +1,29 @@
+Q- How to cheeck if git is available on your system?
+use command: $ git --version
+
+Q- How to initialize a new repository?
+use command: $ git init
+
+Q- How to tell git about your name and email?
+use command: $git config --global user.name "name"
+		 $git config --global user.email "mail@mail.com"
+
+Q- How to add a file to the staging area?
+use command: $git add . //to add all the files in the directory
+		 $git add <file-name> //to add specific file
+
+Q- How to remove a file from the staging area?
+use command: $git rm -cached <file-name>
+
+Q- How to make a commit?
+use command: $ git commit -m "suitable message"
+
+Q- How to send your changes to remote repository?
+use following changes to  send your changes to a repository:-
+	$git branch -M main //set main branch 
+	$git remote add origin <repository-url>  //add repository url
+	$git push -u origin main  //push code upstream to origin from main
+
+Q- What is the difference between clone and pull?
+$git clone:- It download all the file from the repository to the developers machine.
+$git pull:- It fetches the code and merges all the modification to the local repo.
