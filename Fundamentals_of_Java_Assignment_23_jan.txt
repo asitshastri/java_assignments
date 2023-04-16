@@ -1,0 +1,25 @@
+What is a programming language?
+Making a set of instructions that instruct a computer how to carry out a task is the process of programming.
+
+Why do we need a programming language?
+A prominent purpose of programming languages is to provide instructions to a computer. As such, programming languages differ from most other forms of human expression in that they require a greater degree of precision and completeness
+
+What are the features of java?
+Following are the features of java:-
+	object-oriented
+	Platform-independent
+	Simple 
+	Secure
+	Portable 
+	Robust
+	Multi-threaded
+	Distributed
+
+What is an Object?
+An Object is an entity with state and behaviour, such as chair, bike, pen or car etc.It could be intellectual or physical.
+
+What is a class?
+A class is a collection of items with similar characteristics. It serves as a model or blueprint from which things can be made. 
+
+Explain about main() method in java?
+main() method is tyhe starting point for java to start execution of java program. Without main() method JVM will not execute the program.
